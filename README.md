@@ -1,2 +1,4 @@
 # htmx
-HTMX examples
+HTMX examples illustrating library basics.
+
+
